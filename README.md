@@ -5,20 +5,31 @@ Link to shop: https://frontend3-7ewd.onrender.com/
 # Technologies
 
 MongoDB: A NoSQL database that stores data about products, users, and orders.
+
 Express.js: A Node.js framework used to create APIs and handle client requests.
+
 React: A JavaScript library for building the user interface, enabling easy rendering of components.
+
 Node.js: A server-side runtime environment used for handling client requests and communicating with the database.
+
 Redux: A state management library used for holding information about the shopping cart and user state.
 
 # Key Features
 
 User registration and login.
+
 Displaying lists of products and their details.
+
 Adding and removing products from the shopping cart.
+
 Placing orders and viewing order history.
+
 Managing the shopping cart and logged-in user state.
+
 Responsive user interface adapted for various devices.
+
 Integration with MongoDB for persistent data storage.
+
 Online payment handling.
 
 ## Some ScreenShots of the shop
